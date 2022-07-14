@@ -1,0 +1,12 @@
+{
+  "name": "wails-video",
+  "outputfilename": "wails-video",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Zámbó Levente",
+    "email": "levente.zambo@gmail.com"
+  }
+}
